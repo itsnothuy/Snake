@@ -49,5 +49,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any inquiries or feedback, you can reach out to the project maintainer:
-- Email: your-email@example.com
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Email: huytrngqu@gmail.com
+
